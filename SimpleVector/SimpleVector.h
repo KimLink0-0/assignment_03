@@ -8,8 +8,8 @@ private :
 
 	T* data; 
 	
-	int currentSize; // 데이터 입력량
-	int currentCapacity; // 용량
+	int currentSize; 
+	int currentCapacity; 
 
 	void resize(int newCapacity);
 
